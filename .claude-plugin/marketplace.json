@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-simple-qa",
+  "description": "Answer-style plugins for Claude Code.",
+  "owner": {
+    "name": "Darshan Kapashi"
+  },
+  "plugins": [
+    {
+      "name": "simple-qa",
+      "source": "./plugins/simple-qa",
+      "description": "/simple-qa switches every later answer in the session to simple English, at most three short bullet points.",
+      "category": "productivity"
+    }
+  ]
+}

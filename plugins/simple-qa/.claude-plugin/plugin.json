@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "simple-qa",
+  "version": "1.0.0",
+  "description": "/simple-qa switches every later answer in the session to simple English, at most three short bullet points.",
+  "author": {
+    "name": "Darshan Kapashi"
+  },
+  "homepage": "https://github.com/darshankapashi/claude-simple-qa",
+  "repository": "https://github.com/darshankapashi/claude-simple-qa",
+  "license": "MIT",
+  "keywords": [
+    "simple",
+    "plain-english",
+    "concise",
+    "bullets",
+    "answers",
+    "style"
+  ]
+}
